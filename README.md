@@ -173,7 +173,7 @@ int main(int argc, char **argv)
 }
 ```
 ## OUTPUT:
-![Uploading 310970262-f9d7ba5a-89d3-4e62-85c1-3c3a5038f508.png…]()
+![310970262-f9d7ba5a-89d3-4e62-85c1-3c3a5038f508](https://github.com/Jayakrishnan22003251/PCA-EXP-1-SUM-ARRAY-GPU-AY-23-24/assets/120232371/f06cfb57-134d-4f8a-856c-ec9d240665ce)
 
 
 ## RESULT:
